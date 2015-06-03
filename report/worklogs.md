@@ -1,7 +1,20 @@
 #Worklogs
 
 
-##2015-June-01
+##2015-June-03
+
+* *Theory*
+
+	* Tools for collaboration 1
+		* Try Git(~30min) 
+		* Lesson 1: Navigating a Commit History + Fixing the Second Bug Solution (~5h)
+	
+* *Practice*
+
+	* Cloned 'asteroid' project + fixed bug (~1h)
+	* Cloned 'pappu-pakia' project + fixed bug (~1h)
+
+##2015-June-02
 
 * *Theory*
 
