@@ -1,6 +1,12 @@
 #Worklogs
 
 
+##2015-Jun-04
+
+* Finished Lesson 2: Creating and Modifying a Repository
+* Installed Jing to be able to share screen-cast
+* Started Use Git and GitHub 2
+
 ##2015-June-03
 
 * *Theory*
