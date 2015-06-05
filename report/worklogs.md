@@ -1,6 +1,14 @@
 #Worklogs
 
 
+##2015-Jun-05
+
+* Finished Use Git and GitHub 2
+	*  forked 'asteroid' repository with fixes [asteroid repo](https://github.com/drwebmaker/asteroids)
+	*  forked 'pappu-pakia' repository with fixes [pappu-pakia repo](https://github.com/drwebmaker/pappu-pakia)
+* Created my reflections for lesson 2 [my reflections repo](https://github.com/drwebmaker/reflections)
+* Created adventure game repo and made PR [adventure game repo](https://github.com/drwebmaker/create-your-own-adventure)
+
 ##2015-Jun-04
 
 * Finished Lesson 2: Creating and Modifying a Repository
