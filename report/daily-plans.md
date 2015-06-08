@@ -1,6 +1,11 @@
 #Daily Plans
 
 
+##2015-Jun-08
+
+* Finish NodeJS and NPM
+* Discover Developer Tools
+
 ##2015-Jun-05
 
 * Finish Use Git and GitHub 2
