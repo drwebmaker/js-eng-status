@@ -10,6 +10,7 @@
 * Created adventure game repo and made PR [adventure game repo](https://github.com/drwebmaker/create-your-own-adventure)
 * Started Tools for development
 	* Text Editor vs IDE
+	* Brief intro to JavaScript
 	* Started Use NodeJS and NPM
 
 ##2015-Jun-04
