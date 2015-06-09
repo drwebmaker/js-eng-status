@@ -1,6 +1,12 @@
 #Daily Plans
 
 
+##2015-Jun-09
+
+* Finish Naming Conventions
+* Basic Syntax
+* Functions and Data Structures
+
 ##2015-Jun-08
 
 * Finish NodeJS and NPM
