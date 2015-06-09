@@ -1,6 +1,15 @@
 #Worklogs
 
 
+##2015-Jun-08
+
+* Finished NodeJS and NPM
+* Finished Developer Tools(all 7 parts)
+* Started Naming Conventions
+	* Why coding style matter
+	* Installed jshint globally
+	* Started "Naming convention for this course Naming Convention"
+
 ##2015-Jun-05
 
 * Finished Use Git and GitHub 2
