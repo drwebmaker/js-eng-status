@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-Jun-09
+
+* Finish Functions and Data Structures
+  * Functions
+  * Data Structures: Objects and Arrays
+  * Do all exercises
 
 ##2015-Jun-09
 
