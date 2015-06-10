@@ -1,6 +1,14 @@
 #Worklogs
 
 
+##2015-Jun-09
+
+* Finished Naming Conventions
+* Finished Basic Syntax
+	* Created [repo](https://github.com/drwebmaker/eloquent-samples)
+	* Did all exercises in [index.html](http://drwebmaker.github.io/eloquent-samples/) file
+* Started Functions and Data Structures
+
 ##2015-Jun-08
 
 * Finished NodeJS and NPM
