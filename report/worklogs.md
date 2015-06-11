@@ -4,7 +4,8 @@
 
 * Finished Functions and Data Structures
 * Finished Functions
-* Finished Data Structures: Objects and Arrays
+* Finished theory Data Structures: Objects and Arrays
+* Started practice Data Structures: Objects and Arrays
 
 ##2015-Jun-09
 
