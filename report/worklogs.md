@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-Jun-10
+
+* Finished Functions and Data Structures
+* Finished Functions
+* Finished Data Structures: Objects and Arrays
 
 ##2015-Jun-09
 
