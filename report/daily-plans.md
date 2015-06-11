@@ -2,6 +2,11 @@
 
 ##2015-Jun-09
 
+* Finish practice Functions and Data Structures
+* High-Order Functions
+
+##2015-Jun-09
+
 * Finish Functions and Data Structures
   * Functions
   * Data Structures: Objects and Arrays
