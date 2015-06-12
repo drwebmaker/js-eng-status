@@ -1,11 +1,16 @@
 #Daily Plans
 
-##2015-Jun-09
+
+##2015-Jun-12
+
+* High-Order Functions one more time and practice
+
+##2015-Jun-11
 
 * Finish practice Functions and Data Structures
 * High-Order Functions
 
-##2015-Jun-09
+##2015-Jun-10
 
 * Finish Functions and Data Structures
   * Functions
