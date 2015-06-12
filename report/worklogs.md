@@ -1,8 +1,13 @@
 #Worklogs
 
+
+##2015-Jun-11
+
+* Finished practice Data Structures: Objects and Arrays
+* Started High-Order Functions
+
 ##2015-Jun-10
 
-* Finished Functions and Data Structures
 * Finished Functions
 * Finished theory Data Structures: Objects and Arrays
 * Started practice Data Structures: Objects and Arrays
