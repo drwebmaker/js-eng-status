@@ -1,6 +1,10 @@
 #Worklogs
 
 
+##2015-Jun-12
+
+* Reread High-Order Functions
+
 ##2015-Jun-11
 
 * Finished practice Data Structures: Objects and Arrays
