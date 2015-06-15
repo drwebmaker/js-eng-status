@@ -3,6 +3,11 @@
 
 ##2015-Jun-12
 
+* Finish practice High-Order Functions
+* The Secret Life of Objects
+
+##2015-Jun-12
+
 * High-Order Functions one more time and practice
 
 ##2015-Jun-11
