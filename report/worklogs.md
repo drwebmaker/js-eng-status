@@ -1,6 +1,10 @@
 #Worklogs
 
 
+##2015-Jun-15
+
+* The Secret Life of Objects(theory)
+
 ##2015-Jun-12
 
 * Reread High-Order Functions
