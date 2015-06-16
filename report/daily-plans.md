@@ -1,7 +1,12 @@
 #Daily Plans
 
 
-##2015-Jun-12
+##2015-Jun-16
+
+* The Secret Life of Objects(practice)
+* Project: Electronic Life
+
+##2015-Jun-15
 
 * Finish practice High-Order Functions
 * The Secret Life of Objects
