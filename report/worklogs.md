@@ -1,6 +1,14 @@
 #Worklogs
 
 
+##2015-Jun-16
+
+* The Secret Life of Objects(practice)
+* Project: Electronic Life (theory)
+* Project: Electronic Life (practice)
+    * Created new [repo](https://github.com/drwebmaker/eloquent-electronic-life)
+    * Added file with all exercises
+
 ##2015-Jun-15
 
 * The Secret Life of Objects(theory)

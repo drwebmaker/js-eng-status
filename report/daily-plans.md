@@ -1,6 +1,13 @@
 #Daily Plans
 
 
+##2015-Jun-17
+
+* Project: Electronic Life (practice)
+    * Separate tasks to different files
+    * Add README.md file
+* Error Handing and Regexp(theory)
+
 ##2015-Jun-16
 
 * The Secret Life of Objects(practice)
