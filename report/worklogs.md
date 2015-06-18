@@ -1,6 +1,13 @@
 #Worklogs
 
 
+##2015-Jun-17
+
+* Finished Project: Electronic Life (practice)
+    * Separated tasks to different files
+    * Added README.md file
+* Started Error Handing and Regexp(theory)
+
 ##2015-Jun-16
 
 * The Secret Life of Objects(practice)

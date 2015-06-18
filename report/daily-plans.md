@@ -1,6 +1,11 @@
 #Daily Plans
 
 
+##2015-Jun-18
+
+* Finised Error Handing and Regexp(theory)
+* Practice of Error Handin and Regexp
+
 ##2015-Jun-17
 
 * Project: Electronic Life (practice)
