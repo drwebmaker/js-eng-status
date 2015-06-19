@@ -1,11 +1,17 @@
 #Worklogs
 
 
+##2015-Jun-18
+
+* Finised Error Handing and Regexp(theory)
+* Finised Error Handin and Regexp (practice)
+* Pushed all tasks on [Github](https://github.com/drwebmaker/eloquent-samples/tree/master/Error%20Handing%20and%20Regexp)
+
 ##2015-Jun-17
 
 * Finished Project: Electronic Life (practice)
-    * Separated tasks to different files
-    * Added README.md file
+    * Separated tasks to different [files](https://github.com/drwebmaker/eloquent-electronic-life)
+    * Added [README.md](https://github.com/drwebmaker/eloquent-electronic-life/blob/master/README.md) file
 * Started Error Handing and Regexp(theory)
 
 ##2015-Jun-16
