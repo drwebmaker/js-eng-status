@@ -1,6 +1,11 @@
 #Worklogs
 
 
+##2015-Jun-19
+
+* Modules
+    * Understanding require
+
 ##2015-Jun-18
 
 * Finised Error Handing and Regexp(theory)
