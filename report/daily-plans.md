@@ -1,6 +1,13 @@
 #Daily Plans
 
 
+##2015-Jun-23
+
+* Modules
+    * JavaScript Module Pattern: In-Depth
+    * Writing Modular JavaScript With AMD, CommonJS & ES Harmony
+
+
 ##2015-Jun-22
 
 * Modules

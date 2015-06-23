@@ -1,6 +1,13 @@
 #Worklogs
 
 
+##2015-Jun-22
+
+* Modules
+    * Modules
+        * Create separating modules [branch](https://github.com/drwebmaker/eloquent-electronic-life/tree/modules-branch)
+    * JavaScript Module Pattern: In-Depth
+
 ##2015-Jun-19
 
 * Modules
