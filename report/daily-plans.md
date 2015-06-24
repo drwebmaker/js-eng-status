@@ -4,6 +4,12 @@
 ##2015-Jun-23
 
 * Modules
+    * Writing Modular JavaScript With AMD, CommonJS & ES Harmony
+    * Separate modules electronic life through RequireJS
+
+##2015-Jun-23
+
+* Modules
     * JavaScript Module Pattern: In-Depth
     * Writing Modular JavaScript With AMD, CommonJS & ES Harmony
 

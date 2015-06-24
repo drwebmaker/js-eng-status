@@ -1,6 +1,16 @@
 #Worklogs
 
 
+##2015-Jun-23
+
+* Modules
+    * Theory
+        * JavaScript Module Pattern: In-Depth
+        * Writing Modular JavaScript With AMD, CommonJS & ES Harmony
+    * Practice
+        * Fixed and pushed modules into [branch](https://github.com/drwebmaker/eloquent-electronic-life/tree/modules-branch)
+        * Created simple require template
+
 ##2015-Jun-22
 
 * Modules
