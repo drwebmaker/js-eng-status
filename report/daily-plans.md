@@ -1,7 +1,21 @@
 #Daily Plans
 
 
-##2015-Jun-23
+##2015-Jun-30
+
+* Continue commonJS
+
+##2015-Jun-26
+
+* Finish requireJS realisation
+* Start theory commonJS
+
+##2015-Jun-25
+
+* Finish modules realisation
+* Starte requireJS realisation
+
+##2015-Jun-24
 
 * Modules
     * Writing Modular JavaScript With AMD, CommonJS & ES Harmony

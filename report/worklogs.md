@@ -1,5 +1,18 @@
 #Worklogs
 
+##2015-Jun-26
+
+* Finish [requireJS](https://github.com/drwebmaker/eloquent-electronic-life/tree/requirejs-branch) realisation
+* Started theory CommonJS
+
+##2015-Jun-25
+
+* Finish [modules](https://github.com/drwebmaker/eloquent-electronic-life/tree/modules-branch) realisation
+* Started [requireJS](https://github.com/drwebmaker/eloquent-electronic-life/tree/requirejs-branch) realisation
+
+##2015-Jun-24
+
+* Several experimenting with modules
 
 ##2015-Jun-23
 
