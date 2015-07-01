@@ -1,5 +1,10 @@
 #Worklogs
 
+
+##2015-Jun-26
+
+* Finished commonJS realisation
+
 ##2015-Jun-26
 
 * Finish [requireJS](https://github.com/drwebmaker/eloquent-electronic-life/tree/requirejs-branch) realisation
