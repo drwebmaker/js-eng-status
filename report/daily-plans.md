@@ -1,7 +1,12 @@
 #Daily Plans
 
 
-##2015-Jun-30
+##2015-Jun-02
+
+* Finish browserify realisation
+* Unit tests
+
+##2015-Jun-01
 
 * Unit tests
 

@@ -1,9 +1,14 @@
 #Worklogs
 
 
-##2015-Jun-26
+##2015-Jun-01
 
-* Finished commonJS realisation
+* Refactoring requireJS realisation
+* Started [Browserify](https://github.com/drwebmaker/eloquent-electronic-life/tree/browserify-branch) realisation
+
+##2015-Jun-30
+
+* Finished [commonJS](https://github.com/drwebmaker/eloquent-electronic-life/tree/commonJS-branch) realisation
 
 ##2015-Jun-26
 
