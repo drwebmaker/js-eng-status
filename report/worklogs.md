@@ -1,6 +1,20 @@
 #Worklogs
 
 
+##2015-Jun-03
+
+* Unit tests
+ * Theory
+    * TDD
+    * BDD
+ * Practice
+    * Starting module "try-bdd-with-utils"
+
+##2015-Jun-02
+
+* Finished browserify realisation
+* Started unit tests
+
 ##2015-Jun-01
 
 * Refactoring requireJS realisation

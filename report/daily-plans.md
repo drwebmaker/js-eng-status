@@ -1,6 +1,18 @@
 #Daily Plans
 
 
+##2015-Jun-06
+
+* Unit tests
+ * Continue module "try-bdd-with-utils"
+ * chaiJS API
+
+##2015-Jun-03
+
+* Unit tests
+ * Starting module "try-bdd-with-utils"
+ * mochaJS API
+
 ##2015-Jun-02
 
 * Finish browserify realisation
