@@ -1,6 +1,16 @@
 #Worklogs
 
 
+##2015-Jun-07
+
+* Finished module ["try-bdd-with-utils"](https://github.com/drwebmaker/try-bdd-with-utils)
+* Project: A Programming Language
+
+##2015-Jun-06
+
+* Continue module "try-bdd-with-utils"
+* Read ChaiJS API
+
 ##2015-Jun-03
 
 * Unit tests

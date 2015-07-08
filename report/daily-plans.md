@@ -1,6 +1,16 @@
 #Daily Plans
 
 
+##2015-Jun-08
+
+* Finish theory "Project: A Programming Language"
+* Start practice
+
+##2015-Jun-07
+
+* Finish module "try-bdd-with-utils"
+* Start "Project: A Programming Language"
+
 ##2015-Jun-06
 
 * Unit tests
