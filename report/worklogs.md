@@ -1,6 +1,12 @@
 #Worklogs
 
 
+##2015-Jun-08
+
+* Refactoring unitests
+* Started theory "Project: A Programming Language"
+* Read and reread simonjs docs
+
 ##2015-Jun-07
 
 * Finished module ["try-bdd-with-utils"](https://github.com/drwebmaker/try-bdd-with-utils)

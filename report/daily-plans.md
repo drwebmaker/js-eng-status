@@ -3,6 +3,11 @@
 
 ##2015-Jun-08
 
+* Reread simonjs docs
+* Continue reading "Project: A Programming Language"
+
+##2015-Jun-08
+
 * Finish theory "Project: A Programming Language"
 * Start practice
 
