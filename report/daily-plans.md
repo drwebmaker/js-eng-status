@@ -1,7 +1,12 @@
 #Daily Plans
 
 
-##2015-Jun-08
+##2015-Jun-10
+
+* Finish reading theory "Project: A Programming Language"
+* Start practice
+
+##2015-Jun-09
 
 * Reread simonjs docs
 * Continue reading "Project: A Programming Language"

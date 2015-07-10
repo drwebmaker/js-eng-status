@@ -1,6 +1,11 @@
 #Worklogs
 
 
+##2015-Jun-09
+
+* Finished unitests
+* Read theory "Project: A Programming Language"
+
 ##2015-Jun-08
 
 * Refactoring unitests
