@@ -1,6 +1,12 @@
 #Worklogs
 
 
+##2015-Jun-10
+
+* Finished theory "Project: A Programming Language"
+* Finished practice "Project: A Programming Language"
+* Started separate on modules
+
 ##2015-Jun-09
 
 * Finished unitests
