@@ -1,5 +1,10 @@
 #Daily Plans
 
+
+##2015-Jun-14
+
+* Write tests
+
 ##2015-Jun-13
 
 * Finish separation on modules

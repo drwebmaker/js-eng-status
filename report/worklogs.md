@@ -1,6 +1,11 @@
 #Worklogs
 
 
+##2015-Jun-13
+
+* Finished separation on modules ["Project: A Programming Language"](https://github.com/drwebmaker/Programming-Language)
+* Wrote tests
+
 ##2015-Jun-10
 
 * Finished theory "Project: A Programming Language"
