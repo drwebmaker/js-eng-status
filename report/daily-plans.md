@@ -1,6 +1,15 @@
 #Daily Plans
 
 
+##2015-Jun-16
+
+* Continue theory and practice "JavaScript and Browser"
+
+##2015-Jun-15
+
+* Start "JavaScript and Browser"
+* Take a practice
+
 ##2015-Jun-14
 
 * Write tests

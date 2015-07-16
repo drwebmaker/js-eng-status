@@ -1,5 +1,16 @@
 #Worklogs
 
+##2015-Jun-15
+
+* Started "JavaScript and Browser"
+    * Made several exercises:
+        * Build a table
+        * Elements by tag name
+        * The cat's hat
+
+##2015-Jun-14
+
+* Finished tests for ["Project: A Programming Language"](https://github.com/drwebmaker/Programming-Language)
 
 ##2015-Jun-13
 
