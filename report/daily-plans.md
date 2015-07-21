@@ -1,6 +1,19 @@
 #Daily Plans
 
 
+##2015-Jun-21
+
+* Separating to modules ["Project: A Platform Game"](https://github.com/drwebmaker/platform-game)
+* Start write tests
+
+##2015-Jun-20
+
+* Continue ["Project: A Platform Game"](https://github.com/drwebmaker/platform-game)
+* Start practice
+
+##2015-Jun-17
+* Start "Project: A Platform Game"
+
 ##2015-Jun-16
 
 * Continue theory and practice "JavaScript and Browser"

@@ -1,5 +1,18 @@
 #Worklogs
 
+
+##2015-Jun-20
+
+* Continue ["Project: A Platform Game"](https://github.com/drwebmaker/platform-game)
+* Started practice
+
+##2015-Jun-17
+* Started "Project: A Platform Game"
+
+##2015-Jun-16
+
+* Finished "JavaScript and Browser"
+
 ##2015-Jun-15
 
 * Started "JavaScript and Browser"
