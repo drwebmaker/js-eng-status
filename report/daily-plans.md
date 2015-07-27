@@ -1,6 +1,25 @@
 #Daily Plans
 
 
+##2015-Jun-27
+
+* Finish practice for "Drawing on Canvas"
+* Move tests to master branch in "Project: A Platform Game"
+* Write Readme for "Project: A Platform Game"
+
+##2015-Jun-24
+
+* Started "Drawing on Canvas"
+* Started practice
+
+##2015-Jun-23
+
+* Tests for "Project: A Platform Game"
+
+##2015-Jun-22
+
+* Start Tests for "Project: A Platform Game"
+
 ##2015-Jun-21
 
 * Separating to modules ["Project: A Platform Game"](https://github.com/drwebmaker/platform-game)

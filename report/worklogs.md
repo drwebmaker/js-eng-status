@@ -1,6 +1,23 @@
 #Worklogs
 
 
+##2015-Jun-24
+
+* Started "Drawing on Canvas"
+* Started practice
+
+##2015-Jun-23
+
+* Continue write tests for "Project: A Platform Game"
+
+##2015-Jun-22
+
+* Started write tests for "Project: A Platform Game"
+
+##2015-Jun-21
+
+* Separated to modules ["Project: A Platform Game"](https://github.com/drwebmaker/platform-game)
+
 ##2015-Jun-20
 
 * Continue ["Project: A Platform Game"](https://github.com/drwebmaker/platform-game)
